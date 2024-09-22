@@ -4,7 +4,7 @@ Foi utilizado a linguagem Python, o framework Tkinter e o Firebase para armazena
 
 # Como executar?
 **ATENÇÃO:** 
- 1. **Para execução pela faculdade (atividade de extensão):** O arquivo .json que autentica o firebase está na seção 3.2 para download. O mesmo deve ser inserido dentro da pasta /json, **SEM ALTERAÇÃO DO NOME ORIGINAL.** Com isso, o sistema reconhecerá e autenticará no firebase para execução completa.
+ 1. **Para execução pela faculdade (atividade de extensão):** É necessário criar um arquivo "chave-firebase.json" na pasta /json e inserir os valores descritos na seção 3.2 da atividade de extensão. Caso precise, você pode solicitar esse arquivo pronto através do e-mail indicado na mesma seção. **O arquivo deve, obrigatoriamente, ter o nome chave-firebase.json** Com isso, o sistema reconhecerá e autenticará no firebase para execução completa.
  2. **Para execução por outra pessoa:** Solicite ao dono do repositório o arquivo .json de autenticação do Firebase.
  
 O sistema até executa sem o .json do Firebase, porém não será possível efetuar ou visualizar cadastros.
